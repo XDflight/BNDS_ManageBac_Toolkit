@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="315f08e7-d0af-4beb-a68a-fefdb8333f45" name="更改" comment="PyCharm dev environment.">
-      <changelist_data name="Qirui (Ridge) Da" email="" />
-      <change afterPath="$PROJECT_DIR$/.idea/BNDS_ManageBac_Toolkit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <changelist_data name="XDflight" email="47133047+xdflight@users.noreply.github.com" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +15,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="XDflight &lt;47133047+xdflight@users.noreply.github.com&gt;" />
         <option value="Qirui (Ridge) Da" />
       </list>
     </option>
@@ -85,8 +80,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705747247410</updated>
-      <workItem from="1705747250131" duration="3617000" />
+      <workItem from="1705747250131" duration="4026000" />
     </task>
+    <task id="LOCAL-00001" summary="PyCharm dev environment.">
+      <option name="closed" value="true" />
+      <created>1705990849461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705990849461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
